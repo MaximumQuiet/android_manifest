@@ -791,4 +791,7 @@
   <include name="snippets/havoc.xml" />
   <include name="snippets/lineage.xml" />
 
+  <!-- Custom additions -->
+  <include name="snippets/custom.xml" />
+
 </manifest>
